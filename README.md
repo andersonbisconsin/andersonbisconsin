@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming Development.
 - 🌱 I’m currently learning Unreal Engine and DevOps Tools.
 - 💞️ I’m looking to collaborate on Gaming Projects.
-- 📫 How to reach me On ![LinkedIn][LinkedIn]
+- 📫 How to reach me On [LinkedIn][LinkedIn]
 
 <div>
   <a href="https://github.com/andersonbisconsin">
