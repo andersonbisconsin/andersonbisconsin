@@ -9,6 +9,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbisconsin&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+![Stats][Stats_repo]
+[Stats_repo]: https://github-readme-stats.vercel.app/api/pin/?username=andersonbisconsin&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
+  
+  
+![Langs][Langs_repo]
+[Langs_repo]: (https://github-readme-stats.vercel.app/api/top-langs/?username=andersonbisconsin&layout=compact)
+  
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="And-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="And-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -18,10 +26,6 @@
 <div>
   <a href="https://www.linkedin.com/in/anderson-da-silva-bisconsin-73349730" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  
-`Stats` ![Stats][Stats_repo]
-  
-[Stats_repo]: https://github-readme-stats.vercel.app/api/pin/?username=andersonbisconsin&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
   
 <!---
 Referencia: 
