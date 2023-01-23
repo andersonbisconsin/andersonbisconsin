@@ -1,8 +1,8 @@
 ### 👋 Oi, Eu sou o @andersonbisconsin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Gaming Development.
+- 🌱 I’m currently learning Unreal Engine and DevOps Tools.
+- 💞️ I’m looking to collaborate on Gaming Projects.
+- 📫 How to reach me On [LinkedIn](https://www.linkedin.com/in/anderson-da-silva-bisconsin-73349730/)
 
 <div>
   <a href="https://github.com/andersonbisconsin">
@@ -19,6 +19,12 @@
 <div>
   <a href="https://www.linkedin.com/in/anderson-da-silva-bisconsin-73349730" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+```{r, animation.hook="gifski"}
+for (i in 1:2) {
+  pie(c(i %% 2, 6), col = c('red', 'yellow'), labels = NA)
+}
+```
   
 <!---
 Referencia: 
