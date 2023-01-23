@@ -19,8 +19,9 @@
   <a href="https://www.linkedin.com/in/anderson-da-silva-bisconsin-73349730" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-![Stats][Stats]
-[Stats]: https://github-readme-stats.vercel.app/api/pin/?username=andersonbisconsin&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
+`Stats` ![Stats][Stats_repo]
+  
+[Stats_repo]: https://github-readme-stats.vercel.app/api/pin/?username=andersonbisconsin&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
   
 <!---
 Referencia: 
